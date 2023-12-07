@@ -1,2 +1,2 @@
 # inmortal
-MI primer sistema web1
+MI primer sistema web
